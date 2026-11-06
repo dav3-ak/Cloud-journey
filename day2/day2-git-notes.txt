@@ -1,0 +1,7 @@
+repisotory - A repository isn’t about making files visible. It’s a project folder that Git is tracking, including the full history of every change. Your cloud-journey-repo folder is one, which is why it has the hidden .git folder. The copy on GitHub is the online version of it.
+
+clone - It makes a copy of a whole repository from GitHub onto your computer, history included, and links the two. You did this with git clone.
+
+commit - After you change files, git add picks which changes to include, and git commit saves them as a snapshot with a short message, like “Add day 1 Linux notes”. Think of it as a save point in a game: you can look back at any commit later. A commit stays on your computer until you push it.
+
+push - It sends your commits from your computer to GitHub. To be exact, it sends the commits, not just the files, which is why your history appears there.
