@@ -1,0 +1,13 @@
+Today is day one of cloud engineering,	Tring to take it seriously.
+pwd
+cat
+nano
+mv
+mkdir
+cp
+rm
+cd
+ls
+ls -la
+
+
