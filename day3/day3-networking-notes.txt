@@ -1,0 +1,10 @@
+Part 1 
+IP address: what identifies a device on a network
+DNS: what turns a name like google.com into an IP address
+Port: which “door” on a device a service listens on, such as 80 for web and 443 for secure web
+
+Part 2 
+network part : 10.11.113
+host part : .4
+
+part 3 
